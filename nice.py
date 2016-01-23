@@ -65,7 +65,7 @@ def say_hello():
             <label><option value="wonderful">Wonderful</option></label>
             <label><option value="smashing">Smashing</option></label>
             <label><option value="lovely">Lovely</option></label>
-          </select> 
+          </select>
           <br>
           <label><input type="submit"></label>
         </form>
